@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '29f3661bcd444c78a3ac00710f719860',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: ' 邹平未行信息科技有限公司-邹平小米之家-小米手机11 Ultra、MIX FOLD，Redmi 红米手机Redmi K40 Pro',
+  domain: 'https://www.notion.so/29f3661bcd444c78a3ac00710f719860',
+  author: 'zoupingxiaomi',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '小米电视、空调冰箱洗衣机送货上门 笔记本、米家智能家居，邹平企业礼品定制 企业采购等',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
